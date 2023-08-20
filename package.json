@@ -1,0 +1,28 @@
+{
+  "name": "tugas_api",
+  "version": "1.0.0",
+  "description": "api automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agumdwii/Tugas_Api.git"
+  },
+  "keywords": [
+    "api",
+    "automation"
+  ],
+  "author": "Tika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agumdwii/Tugas_Api/issues"
+  },
+  "homepage": "https://github.com/agumdwii/Tugas_Api#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
